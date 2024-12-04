@@ -1,0 +1,1 @@
+In the soundbooth folder there is an arduino project using an Liquid Crystal display and a joystick. The menu for the soundbooth, a small music player, should be interactive with a selectible display and playable songs.
